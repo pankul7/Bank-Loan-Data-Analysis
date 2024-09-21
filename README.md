@@ -1,8 +1,10 @@
 **Bank-Loan-Data-Analysis**
 
-**Bank Loan Report: Dashboard Summary**
+**Enhanced performance metrics and ensured data accuracy through SQL queries and dashboard metrics.**
 
 This project provides a comprehensive analysis of our bank's lending activities through interactive dashboards that help track key loan metrics and performance trends. The goal is to make data-driven decisions and gain insights into loan portfolio health.
+
+**Bank Loan Report: Dashboard Summary**
 
 **DASHBOARD 1: Key Metrics**
 
